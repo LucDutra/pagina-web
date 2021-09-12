@@ -37,6 +37,9 @@ width: 70%;
     background-color: white;
     width: 980px;
     margin: 0 auto;
+    
+}
+.menu-urls{
     border-bottom: 3px solid #eeeeee;
 }
 .menu ul li {
