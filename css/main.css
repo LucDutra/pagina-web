@@ -44,3 +44,17 @@ width: 70%;
     font-size: 18px;
     text-transform: uppercase;
 }
+.menu{
+    width:70%;
+    float: left;
+}
+.busca{
+    width:30%;
+    float:right;
+}
+
+.col-100{
+    width: 100%;
+    float: left;
+    position: relative;
+}
