@@ -28,3 +28,18 @@ width: 70%;
     width: 25%;
     float: right;
 }
+.header-2{
+    background-color: white;
+    width: 100%;
+    border-bottom: 3px solid #eeeeee;
+}
+.menu ul li {
+    display: inline-block;
+    color: #8b8b8b;
+}
+.menu ul li a {
+    color: #8b8b8b;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
