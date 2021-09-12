@@ -65,6 +65,9 @@ width: 70%;
     float:right;
 }
 .busca input{
+    background-image: url(../img/lupa.png);
+    background-repeat: no-repeat;
+    background-position: 96%;
     height: 36px;
     padding: 12px;
     width: 190px;
