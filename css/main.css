@@ -65,6 +65,9 @@ width: 70%;
     float:right;
 }
 .busca input{
+    height: 36px;
+    padding: 12px;
+    width: 190px;
     margin-top: 10px;
 }
 
